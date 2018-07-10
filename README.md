@@ -1,5 +1,7 @@
 Machine-Translation
 
+*Using OpenNMT-py: https://github.com/OpenNMT/OpenNMT-py
+
 1. ``git clone https://github.com/OpenNMT/OpenNMT-py``
 
 2. ``cd OpenNMT-py``
