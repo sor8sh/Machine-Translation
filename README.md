@@ -1,6 +1,6 @@
 Machine-Translation
 
-*Using OpenNMT-py: https://github.com/OpenNMT/OpenNMT-py
+* Using OpenNMT-py: https://github.com/OpenNMT/OpenNMT-py
 
 1. ``git clone https://github.com/OpenNMT/OpenNMT-py``
 
@@ -19,3 +19,9 @@ Machine-Translation
 6. Translate: 
 
     ``python3 translate.py -model demo-model_XYZ.pt -src data/src-test.txt -output pred.txt -replace_unk -verbose``
+    
+    
+* Sample:
+
+        input: من شما را دوست دارم
+        output: إِنِّي لَكُمْ أَمِينٌ 
